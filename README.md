@@ -1,7 +1,7 @@
-# This pages for students who takes Pattern Recognition Lab (CSI 416).
+### This pages for students who takes Pattern Recognition Lab (CSI 416).
 
-## Syllabus :
-# Classification
+### Syllabus :
+### Classification
 - Rule Classifiers
   - ZeroR Classifier
   - OneR Classifier
@@ -14,7 +14,7 @@
   - ID3
   - C4.5/C5.0 (J48)
 
-# Clustering
--KMeans
--Hierarchical
+### Clustering
+- KMeans
+- Hierarchical
 
