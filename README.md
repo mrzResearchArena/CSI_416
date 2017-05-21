@@ -13,9 +13,16 @@
   - Gini
   - ID3
   - C4.5/C5.0 (J48)
-    - De
+  
 
 ### Clustering
 - KMeans
 - Hierarchical
+
+
+```sh
+cd /home/..
+ls
+mkdir MRZ
+```
 
