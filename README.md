@@ -16,7 +16,8 @@
   
   
 ### Preprocessing Datasets
-- Can you calculate "Euclid distance", "Manhattan distance", "Minkowski distance" ?
+- Can you calculate : "Euclid distance", "Manhattan distance", "Minkowski distance" ?
+- Can you calculate : Mean, Median, Mode, etc. ?
 
 ### Classification
 - Rule Classifiers
