@@ -35,7 +35,9 @@
   - Bagging Classifier
   - Boosting Classifier (AdaBoost, Gradient Boosting)
   - Random Forest Classifier
-  
+- Introduction to Deep Learning(RNN, CNN , SOM , Autoencoders basic)  
+
+
 ### Regression
 - Linear Regression (Simple & Multiple)
 - Polynomial Regression
