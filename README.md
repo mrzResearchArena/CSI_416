@@ -7,9 +7,9 @@ This page is for students who have taken "Pattern Recognition Lab (CSI 416)" thi
   2. Feature-values & Attributre-values ?
   3. Class & Class-Attributes ?
   4. Instances / Records / Vectors / Tuples ?
-  5. Two-class dataset & Multi-class dataset (When number of class-values is gretter than 2.) ?
+  5. Two-class dataset & Multi-class dataset (When number of class-values is gretter than 2) ?
   6. Multi-label datasets
-  7. High-dimensional (When number of feature is gretter than 10.) ?
+  7. High-dimensional (When number of feature is gretter than 10) ?
   8. Balanced dataset vs Imbalanced dataset ?
   9. What is overfitting of a dataset ?
   10. Supervised learning vs. Unsupervised learning ?
@@ -20,7 +20,7 @@ This page is for students who have taken "Pattern Recognition Lab (CSI 416)" thi
 ### Preprocessing Datasets
 - Can you handle missing values ?
 - Can you calculate : "Euclid distance", "Manhattan distance", "Minkowski distance" ?
-- Can you calculate : Mean, Median, Mode, etc. ?
+- Can you calculate : Mean, Median, Mode, Standard Deviation etc. ?
 
 ### Classification
 - Rule Classifiers
@@ -28,7 +28,7 @@ This page is for students who have taken "Pattern Recognition Lab (CSI 416)" thi
   - OneR Classifier
 - Logistic Regression
 - KNN Classifier
-- SVM Classifier ( Kernels : Linear, Polynomial, Gaussian,  )
+- SVM Classifier ( Kernels : Linear, Polynomial, Gaussian, etc. )
 - Naive Bayes Classifier
 - Decision Tree Classifier
   - Gini
@@ -49,7 +49,7 @@ This page is for students who have taken "Pattern Recognition Lab (CSI 416)" thi
 
 ### Clustering
 - KMeans
-- Hierarchical
+- Hierarchical (Agglomerative, Divisive)
 
 ### Feature Selection
 - Filter methods
