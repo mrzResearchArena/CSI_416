@@ -38,7 +38,7 @@ This page is for students who have taken "Pattern Recognition Lab (CSI 416)" thi
   - Bagging Classifier
   - Boosting Classifier (AdaBoost, Gradient Boosting)
   - Random Forest Classifier
-- Introduction to Deep Learning ( RNN, CNN, SOM, Autoencoders )  
+- Introduction to Deep Learning (ANN, RNN, CNN, SOM, Autoencoders )  
 
 ### Regression
 - Linear Regression (Simple & Multiple)
