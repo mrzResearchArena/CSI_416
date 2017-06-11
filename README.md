@@ -26,12 +26,12 @@
   - OneR Classifier
 - Logistic Regression
 - KNN Classifier
-- SVM Classifier ( Kernels : Linear, Polynomial, Gaussian, etc. )
+- Support Vector Classifier ( Kernels : Linear, Polynomial, Gaussian, Sigmoid, etc. )
 - Naive Bayes Classifier
 - Decision Tree Classifier
   - Gini
   - ID3
-  - C4.5/C5.0 (J48)
+  - C4.5 / C5.0 / J48
 - Ensemble Learning
   - Bagging Classifier
   - Boosting Classifier (AdaBoost, Gradient Boosting)
@@ -48,6 +48,10 @@
 ### Clustering :
 - KMeans
 - Hierarchical (Agglomerative, Divisive)
+
+### Imbalanced Learning :
+- Majority class vs Minority class
+- Re-sampling : Over-sampling, Under-sampling
 
 ### Feature Selection :
 - Filter methods
