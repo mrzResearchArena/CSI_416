@@ -1,21 +1,24 @@
-# This pages for students who takes Pattern Recognition Lab (CSI 416).
+## This pages for students who takes Pattern Recognition Lab (CSI 416).
+
 ### Syllabus :
 
-## Key notes :
+### Key notes :
   1. Features / Attributres ?
   2. Feature-values & Attributre-values ?
   3. Class & Class-Attributes ?
   4. Instances / Records / Vectors / Tuples ?
   5. Two-class dataset & Multi-class dataset (When number of class-values is gretter than 2.) ?
-  6. High-dimensional (When number of feature is gretter than 10.) ?
-  7. Balanced dataset vs Imbalanced dataset ?
-  8. What is overfitting of a dataset ?
-  9. Supervised learning vs. Unsupervised learning ?
-  10. Classification, Regression, Clustering ?
-  11. Bias–variance tradeoff ?
-  
-  
+  6. Multi-label datasets
+  7. High-dimensional (When number of feature is gretter than 10.) ?
+  8. Balanced dataset vs Imbalanced dataset ?
+  9. What is overfitting of a dataset ?
+  10. Supervised learning vs. Unsupervised learning ?
+  11. Classification, Regression, Clustering ?
+  12. Bias–variance tradeoff ?
+  13. Noisy Datasets & how to remove noise ?
+    
 ### Preprocessing Datasets
+- Can you handle missing values ?
 - Can you calculate : "Euclid distance", "Manhattan distance", "Minkowski distance" ?
 - Can you calculate : Mean, Median, Mode, etc. ?
 
@@ -35,8 +38,7 @@
   - Bagging Classifier
   - Boosting Classifier (AdaBoost, Gradient Boosting)
   - Random Forest Classifier
-- Introduction to Deep Learning(RNN, CNN , SOM , Autoencoders basic)  
-
+- Introduction to Deep Learning ( RNN, CNN, SOM, Autoencoders )  
 
 ### Regression
 - Linear Regression (Simple & Multiple)
@@ -49,13 +51,17 @@
 - KMeans
 - Hierarchical
 
+### Feature Selection
+- Filter methods
+- Wrapper Methods
+
 ### Dimensionality Reduction
 - PCA
 - Kernel PCA
 - LDA
 
-### Performance Measure
+### Performance Measures
 - Understand Confusion Matrix
 - Calculate : Accuracy, Error, Sensitivity, Specificity, Precision, Recall
-- ROC Curve & AUC Curve
+- ROC Curve & AUPR Curve
 
