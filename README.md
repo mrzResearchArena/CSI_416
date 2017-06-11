@@ -52,6 +52,7 @@
 ### Imbalanced Learning :
 - Majority class vs Minority class
 - Re-sampling : Over-sampling, Under-sampling
+  - Over-sampling algorithms : ADASYN, SMOTE, Random Over-sampling
 
 ### Feature Selection :
 - Filter methods
