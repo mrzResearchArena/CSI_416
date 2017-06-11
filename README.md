@@ -1,6 +1,21 @@
 ### This pages for students who takes Pattern Recognition Lab (CSI 416).
 
 ### Syllabus :
+
+
+## Key notes :
+  1. Features / Attributres
+  2. Feature-values & Attributre-values
+  3. Class & Class-Attributes
+  4. Instances / Records / Vectors / Tuples
+  5. Two-class dataset & Multi-class dataset ( When number of class-values is gretter than 2. )
+  6. High-dimensional ( When number of feature is gretter than 10. )
+  7. Balanced dataset vs Imbalanced dataset
+  8. What is overfitting of a dataset ?
+  9. Supervised learning vs. Unsupervised learning
+  10. Classification, Regression, Clustering
+
+
 ### Classification
 - Rule Classifiers
   - ZeroR Classifier
