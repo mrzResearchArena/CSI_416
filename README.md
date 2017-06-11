@@ -1,6 +1,6 @@
-## This pages for students who takes Pattern Recognition Lab (CSI 416).
+This page is for students who have taken "Pattern Recognition Lab (CSI 416)" this trimester.
 
-### Syllabus :
+# Syllabus :
 
 ### Key notes :
   1. Features / Attributres ?
