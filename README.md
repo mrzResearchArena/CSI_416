@@ -1,7 +1,3 @@
-This page is for students who have taken "Pattern Recognition Lab (CSI 416)" this trimester.
-
-# Syllabus :
-
 ### Key notes :
   1. Features / Attributres ?
   2. Feature-values & Attributre-values ?
