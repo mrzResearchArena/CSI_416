@@ -1,4 +1,4 @@
-#Syllabus
+## Syllabus
 
 ### Key Terms :
   1. Features / Attributres
