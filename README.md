@@ -13,7 +13,15 @@
   - Implemented in Java by Dr. Noureddin Sadawi [Go YouTube](https://www.youtube.com/playlist?list=PLea0WJq13cnBVfsPVNyRAus2NK-KhCuzJ), [Go Github](https://github.com/nsadawi/WEKA-API/tree/master/src)
   - Implemented in Java by Rafsanjani Muhammod [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-WEKA/blob/master/Machine_Learning_with_WEKA.java)
   - Implemented in Python (sci-kit learn) by Rafsanjani Muhammod [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-Python)
- 
+
+# Public dataset for Analytics
+- UCI Machine Learning Repository [Go](http://archive.ics.uci.edu/ml/datasets.html)
+- KEEL [Go](http://keel.es/)
+- Kaggle (This is mainly a contest site.) [Go](https://www.kaggle.com/datasets)
+- Public datasets for Machine Learning [Go](http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mldat.htm)
+- Algorithmia [Go](http://blog.algorithmia.com/machine-learning-datasets-for-data-scientists/)
+- Springboar [Go](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
+
 
 # Syllabus
 
