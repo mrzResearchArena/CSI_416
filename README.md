@@ -1,7 +1,7 @@
 # Learning Resources
 ### Text Books :
-- Data Mining: Concepts and Techniques, 3E by J. Han et al. [download](http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
-- Data Mining: Practical Machine Learning Tools and Techniques, 3E by Ian H. Witten et al. [view](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
+- Data Mining: Concepts and Techniques, 3E by J. Han et al. [Download](http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
+- Data Mining: Practical Machine Learning Tools and Techniques, 3E by Ian H. Witten et al. [View](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
 
 
 ### Learn WEKA :
