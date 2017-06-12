@@ -6,13 +6,14 @@
 
 ### Learn WEKA :
 
-- GUI base learning :
-  - by Prof. Ian H. Witten [YouTube](https://www.youtube.com/user/WekaMOOC/playlists)
-
-- Implemented in Java by Dr. Noureddin Sadawi [YouTube](https://www.youtube.com/playlist?list=PLea0WJq13cnBVfsPVNyRAus2NK-KhCuzJ), [github code](https://github.com/nsadawi/WEKA-API/tree/master/src)
-
-- Implemented in Java by Rafsanjani Muhammod [github code](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-WEKA/blob/master/Machine_Learning_with_WEKA.java)
-
+- GUI based learning :
+  - by Prof. Ian H. Witten [Go YouTube](https://www.youtube.com/user/WekaMOOC/playlists)
+  
+- Implementation based learning :
+  - Implemented in Java by Dr. Noureddin Sadawi [Go YouTube](https://www.youtube.com/playlist?list=PLea0WJq13cnBVfsPVNyRAus2NK-KhCuzJ), [Go Github](https://github.com/nsadawi/WEKA-API/tree/master/src)
+  - Implemented in Java by Rafsanjani Muhammod [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-WEKA/blob/master/Machine_Learning_with_WEKA.java)
+  - Implemented in Python (sci-kit learn) by Rafsanjani Muhammod [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-Python)
+ 
 
 # Syllabus
 
