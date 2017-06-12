@@ -3,7 +3,6 @@
 - Data Mining: Concepts and Techniques, 3E by J. Han et al. [Download](http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
 - Data Mining: Practical Machine Learning Tools and Techniques, 3E by Ian H. Witten et al. [View](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
 
-
 ### Learn WEKA :
 
 - GUI based learning :
@@ -13,6 +12,12 @@
   - Implemented in Java by Dr. Noureddin Sadawi [Go YouTube](https://www.youtube.com/playlist?list=PLea0WJq13cnBVfsPVNyRAus2NK-KhCuzJ), [Go Github](https://github.com/nsadawi/WEKA-API/tree/master/src)
   - Implemented in Java by Rafsanjani Muhammod [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-WEKA/blob/master/Machine_Learning_with_WEKA.java)
   - Implemented in Python (sci-kit learn) by Rafsanjani Muhammod [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-Python)
+  
+### Blog :
+- analyticsvidhya [Go](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
+- 
+
+Coming soon ... :)
 
 # Public datasets for Analytics
 - UCI Machine Learning Repository [Go](http://archive.ics.uci.edu/ml/datasets.html)
@@ -35,9 +40,9 @@
   7. High-dimensional (When number of feature is gretter than 10)
   8. Balanced dataset vs Imbalanced dataset
   9. What is overfitting of a dataset
-  10. Supervised learning vs. Unsupervised learning
+  10. Supervised learning vs. Unsupervised learning [Go](http://dataaspirant.com/2014/09/19/supervised-and-unsupervised-learning/)
   11. Classification, Regression, Clustering
-  12. Bias–variance tradeoff
+  12. Bias–variance tradeoff [Go](http://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
   13. Noisy Datasets & how to remove noise ?
     
 ### Preprocessing Datasets :
