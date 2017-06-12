@@ -15,7 +15,7 @@
   
 ### Blog :
 - analyticsvidhya [Go](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
-- 
+- Soft Computing and Intelligent Information Systems [Go](http://sci2s.ugr.es/imbalanced#Introduction%20to%20Classification%20with%20Imbalanced%20Datasets)
 
 Coming soon ... :)
 
@@ -79,7 +79,7 @@ Coming soon ... :)
 - KMeans
 - Hierarchical (Agglomerative, Divisive)
 
-### Imbalanced Learning :
+### Imbalanced Learning : [Go](https://svds.com/learning-imbalanced-classes/)
 - Majority class vs Minority class
 - Re-sampling : Over-sampling, Under-sampling
   - Over-sampling algorithms : ADASYN, SMOTE, Random Over-sampling
