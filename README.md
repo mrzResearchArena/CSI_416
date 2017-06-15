@@ -128,7 +128,7 @@ Coming soon ... :)
     - Draw curve on scikit-learn (eg. ROC Curve, AUC Curve)
     - More tricks (imblearn)
   - Week #10 : Introduction to Deep Learning with Keras & Tensorflow
-   - Problem solving
-   - Assignment #4 : A dataset will provide based on deep learning.
+    - Problem solving
+    - Assignment #4 : A dataset will provide based on deep learning.
   - Week #11 : Presentation based on datasets.
   - Week #12 : Final Exam.
