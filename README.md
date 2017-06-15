@@ -103,33 +103,32 @@ Coming soon ... :)
     - Introduction to Pattern Recognition,
     - Current Researh Trend, 
     - Introduction to WEKA
-    
   - Week #2 :
     - Hands-on practice on WEKA GUI.
       - WEKA file format (.arff)
       - Use different machine learning algorithms
     - Confusion Matrix
     - Assignment #1 : Choose any 5 datasets & submit report on it.
-    
   - Week #3 : 
     - Introduction to WEKA implementation in Java.
       - Assignment #2 : Two huge datasets provides & submit report.
- 
   - Week #4 :
     - Details on WEKA implementation in Java.
-  
   - Week #5 : Ensemble Learning
-  
   - Week #6 : Midterm Exam.
-  
   - Week #7 : Clustering
-  
-  - Week #8 : Data Analysis with scikit-learn (Python) - I
-  
-  - Week #9 : Data Analysis with scikit-learn (Python) - II
-  
-  - Week #10 : Introduction to Deep Learning with Keras/Tensorflow
-  
+  - Week #8 : Data Analysis with scikit-learn (Python)-I
+    - Loading the datasets (using pandas)
+    - Features scalling
+    - Machine Learning Classifiers
+    - Evaluation Matrix
+    - Assignment #3 : Datasets will provide.
+  - Week #9 : Data Analysis with scikit-learn (Python)-II
+    - Problem solving
+    - Draw curve on scikit-learn (eg. ROC Curve, AUC Curve)
+    - More tricks (imblearn)
+  - Week #10 : Introduction to Deep Learning with Keras & Tensorflow
+   - Problem solving
+   - Assignment #4 : A dataset will provide based on deep learning.
   - Week #11 : Presentation based on datasets.
-  
   - Week #12 : Final Exam.
