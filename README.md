@@ -13,7 +13,7 @@
   - Implemented in Java by Rafsanjani Muhammod [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-WEKA/blob/master/Machine_Learning_with_WEKA.java)
   - Implemented in Python (sci-kit learn) by Rafsanjani Muhammod [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-Python)
   
-### Blog :
+### Blogs :
 - analyticsvidhya [Go](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
 - Soft Computing and Intelligent Information Systems [Go](http://sci2s.ugr.es/imbalanced#Introduction%20to%20Classification%20with%20Imbalanced%20Datasets)
 
@@ -98,3 +98,13 @@ Coming soon ... :)
 - Calculate : Accuracy, Error, Sensitivity, Specificity, Precision, Recall
 - ROC Curve & AUPR Curve
 
+# Course Schedule
+  - Week 01 : Introduction to Pattern Recognition,
+              Researh trend,
+  - Week 02 : A,
+              b,
+              c
+              
+  - Week 03 :
+  - Week 06 : MID Exam
+  - Week 12 : FINAL Exam
