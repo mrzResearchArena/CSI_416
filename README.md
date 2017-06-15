@@ -99,21 +99,34 @@ Coming soon ... :)
 - ROC Curve & AUPR Curve
 
 # Course Schedule
-  - Weak #01 : 
+  - Week #01 : 
     - Introduction to Pattern Recognition,
     - Current Researh Trend, 
-    - Introduction to WEKA.
-  - Weak #02 :
+    - Introduction to WEKA
+    
+  - Week #02 :
     - Hands-on practice on WEKA GUI.
       - WEKA file format (.arff)
       - Use different machine learning algorithms
     - Confusion Matrix
     - Assignment on : Choose any 5 datasets & work on it.
-  - Weak #03 : 
-  - Weak #04 : 
-  - Weak #05 : Ensemble Learning
-  - Weak #06 : MID Exam.
-  - Weak #07 : Clustering
-  - Weak #08 : Data Analysis on Sci-Kit learn (Python)
-  - Week #11 : Presentration { based on your working datasets (individual) }
-  - Week #12 : FINAL Exam.
+    
+  - Week #03 : Work two huge datasets.
+  
+  - Week #04 : 
+  
+  - Week #05 : Ensemble Learning
+  
+  - Week #06 : Midterm Exam.
+  
+  - Week #07 : Clustering
+  
+  - Week #08 : Data Analysis on Sci-Kit learn (Python)
+  
+  - Week #09 :
+  
+  - Week #10 :
+  
+  - Week #11 : Presentation based on datasets.
+  
+  - Week #12 : Final Exam.
