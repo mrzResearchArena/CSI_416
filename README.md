@@ -133,7 +133,7 @@ Coming soon ... :)
   - Week #6 : Midterm Exam.
   - Week #7 : Clustering
   - Week #8 : Data Analysis with scikit-learn (Python)-I
-    - Loading the datasets (using pandas)
+    - Loading the datasets (using pandas, numpy)
     - Features scalling
     - Machine Learning Classifiers
     - Evaluation Matrix
