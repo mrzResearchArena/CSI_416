@@ -11,8 +11,8 @@
 - Implementation based learning :
   - Implemented in Java by Dr. Noureddin Sadawi [Go YouTube](https://www.youtube.com/playlist?list=PLea0WJq13cnBVfsPVNyRAus2NK-KhCuzJ), [Go Github](https://github.com/nsadawi/WEKA-API/tree/master/src)
   - Implemented in Java by Rafsanjani Muhammod
-    - Version #01 [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-WEKA/blob/master/MainClassV1.java)
-    - Version #02 [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-WEKA/blob/master/MainClassV2.java)
+    - version #01: [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-WEKA/blob/master/MainClassV1.java)
+    - version #02: [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-WEKA/blob/master/MainClassV2.java)
   - GUI & Core Java by Rafsanjani Muhammod [Go YouTube](https://www.youtube.com/playlist?list=PL3BNX6CPOw7q66qsYIcF18sswBN1sJcAm)
   - Implemented in Python (sci-kit learn) by Rafsanjani Muhammod [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-Python)
   
