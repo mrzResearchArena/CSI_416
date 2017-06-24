@@ -25,6 +25,7 @@ Coming soon ... :)
 # Public datasets for Analytics
 - UCI Machine Learning Repository [Go](http://archive.ics.uci.edu/ml/datasets.html)
 - KEEL [Go](http://keel.es/)
+- AnalyticsVidhya [Go](https://www.analyticsvidhya.com/blog/2016/11/25-websites-to-find-datasets-for-data-science-projects/)
 - Kaggle (This is mainly a contest site.) [Go](https://www.kaggle.com/datasets)
 - Public datasets for Machine Learning [Go](http://homepages.inf.ed.ac.uk/rbf/IAPR/researchers/MLPAGES/mldat.htm)
 - Algorithmia [Go](http://blog.algorithmia.com/machine-learning-datasets-for-data-scientists/)
@@ -147,5 +148,5 @@ Coming soon ... :)
   - Week #10 : Introduction to Deep Learning with Keras & Tensorflow
     - Problem solving
     - Assignment #4 : A dataset will provide based on deep learning.
-  - Week #11 : Presentation based on datasets.
+  - Week #11 : Presentation based on datasets. (Individual)
   - Week #12 : Final Exam.
