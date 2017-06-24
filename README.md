@@ -15,8 +15,11 @@
     - version #01: [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-WEKA/blob/master/MainClassV1.java) & [Romeo Version :):):) -> Section: SA -> June 20, 2017 -> [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-WEKA/blob/master/Romeo.java)]
     - version #02: [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-WEKA/blob/master/MainClassV2.java)
   - GUI & Core Java by Rafsanjani Muhammod [Go YouTube](https://www.youtube.com/playlist?list=PL3BNX6CPOw7q66qsYIcF18sswBN1sJcAm)
-  - Implemented in Python (sci-kit learn) by Rafsanjani Muhammod [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-Python)
   
+### Learn scikit-learn :
+- Implemented in Python (scikit-learn) by Rafsanjani Muhammod [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-Python)
+
+
 ### Blogs :
 - analyticsvidhya [Go](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
 - Soft Computing and Intelligent Information Systems [Go](http://sci2s.ugr.es/imbalanced#Introduction%20to%20Classification%20with%20Imbalanced%20Datasets)
