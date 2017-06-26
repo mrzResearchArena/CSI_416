@@ -2,7 +2,7 @@
 ### Text Books :
 - Data Mining: Concepts and Techniques, 3E by J. Han et al. [Download](http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
 - Data Mining: Practical Machine Learning Tools and Techniques, 3E by Ian H. Witten et al. [View](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
-- Pattern Recognition and Machine Learning, by Christopher Bishop [Download](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop - Pattern Recognition And Machine Learning - Springer 2006.pdf)
+- Pattern Recognition and Machine Learning, by Christopher Bishop [View](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 
 ### Learn WEKA :
 
@@ -18,6 +18,9 @@
   
 ### Learn scikit-learn :
 - Implemented in Python (scikit-learn) by Rafsanjani Muhammod [Go Github](https://github.com/mrzResearchArena/Machine-Learning-Algorithms-with-Python)
+- LazyProgrammer [Go Github](https://github.com/lazyprogrammer)
+- Hands-on Machine Learning with Scikit-Learn and TensorFlow [Go Github](https://github.com/ageron/handson-ml)
+
 
 
 ### Blogs :
