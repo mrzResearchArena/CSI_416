@@ -96,7 +96,7 @@ Coming soon ... :)
 - Majority class vs Minority class
 - Re-sampling : Over-sampling, Under-sampling
   - Over-sampling algorithms : ADASYN, SMOTE, Random Over-sampling
-  - Under-sampling algorithms : ...
+  - Under-sampling algorithms : Random Under-sampling
 
 ### Feature Selection :
 - Filter methods
