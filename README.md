@@ -55,6 +55,8 @@ Coming soon ... :)
   11. Classification, Regression, Clustering
   12. Bias–variance tradeoff [Go](http://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
   13. Noisy Datasets & how to remove noise ?
+  14. Anomaly Detection [Go](http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf)
+  
     
 ### Preprocessing Datasets :
 - Can you handle missing values ?
