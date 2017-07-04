@@ -60,7 +60,7 @@ Coming soon ... :)
 ### Preprocessing Datasets :
 - Remove duplicate elements
 - Handle missing elements (Can you calculate : Mean, Median, Mode, Standard Deviation etc. ?)
-- Feature Scaling (Can you calculate distance using : Euclid, Manhattan, Minkowski ?)
+- Feature Scaling (Can you calculate distance using : Euclid, Manhattan, Minkowski etc. ?)
 
 ### Classification :
 - Rule Classifiers
