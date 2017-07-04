@@ -107,7 +107,7 @@ Coming soon ... :)
 - Kernel PCA
 - LDA
 
-### Performance Measures :
+### Performance Measures : [Go](https://classeval.wordpress.com/introduction/basic-evaluation-measures/)
 - Understand Confusion Matrix
 - Calculate : Accuracy, Error, Sensitivity, Specificity, Precision, Recall
 - ROC Curve & AUPR Curve
