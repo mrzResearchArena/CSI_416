@@ -46,22 +46,21 @@ Coming soon ... :)
   2. Feature-values & Attributre-values
   3. Class & Class-Attributes
   4. Instances / Records / Vectors / Tuples
-  5. Two-class dataset & Multi-class dataset (When number of class-values is gretter than 2)
-  6. Multi-label datasets
-  7. High-dimensional (When number of feature is gretter than 10)
-  8. Balanced dataset vs Imbalanced dataset
-  9. What is overfitting of a dataset
-  10. Supervised learning vs. Unsupervised learning [Go](http://dataaspirant.com/2014/09/19/supervised-and-unsupervised-learning/)
-  11. Classification, Regression, Clustering
-  12. Bias–variance tradeoff [Go](http://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
-  13. Noisy Datasets & how to remove noise ?
-  14. Anomaly Detection [Go](http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf)
+  5. Two-class dataset & Multi-class dataset/Multi-label datasets (when number of class-values is gretter than 2.)
+  6. High-dimensional (When number of feature is gretter than 10)
+  7. Balanced dataset vs Imbalanced dataset
+  8. What is overfitting of a dataset
+  9. Supervised learning vs. Unsupervised learning [Go](http://dataaspirant.com/2014/09/19/supervised-and-unsupervised-learning/)
+  10. Classification, Regression, Clustering
+  11. Bias–variance tradeoff [Go](http://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
+  12. Noisy Datasets & how to remove noise ?
+  13. Anomaly Detection [Go](http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf)
   
     
 ### Preprocessing Datasets :
-- Can you handle missing values ?
-- Can you calculate : "Euclid distance", "Manhattan distance", "Minkowski distance" ?
-- Can you calculate : Mean, Median, Mode, Standard Deviation etc. ?
+- Remove duplicate elements
+- Handle missing elements (Can you calculate : Mean, Median, Mode, Standard Deviation etc. ?)
+- Feature Scaling (Can you calculate : "Euclid distance", "Manhattan distance", "Minkowski distance" ?)
 
 ### Classification :
 - Rule Classifiers
