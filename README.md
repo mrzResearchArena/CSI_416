@@ -141,7 +141,7 @@ Coming soon ... :)
       - Evaluation options
       - Feature Reduction
   - Week #5 : Ensemble Learning
-  - Week #6 : Midterm Exam.
+  - Week #6 : Midterm Exam (Classifiers : based on your both Lab & Theory courses.)
   - Week #7 : Clustering
   - Week #8 : Data Analysis with scikit-learn (Python)-I
     - Loading the datasets (using pandas, numpy)
