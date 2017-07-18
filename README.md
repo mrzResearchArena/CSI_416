@@ -65,7 +65,7 @@ Coming soon ... :)
 ### Classification :
 - Rule Classifiers
   - ZeroR Classifier
-  - OneR Classifier
+  - OneR Classifier [Go](http://www.cs.ccsu.edu/~markov/ccsu_courses/DataMining-7.html) & [Go](http://www.saedsayad.com/oner.htm)
 - Logistic Regression
 - KNN Classifier
 - Support Vector Classifier ( Kernels : Linear, Polynomial, Gaussian, Sigmoid, etc. )
