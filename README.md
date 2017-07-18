@@ -24,6 +24,7 @@
 
 
 ### Blogs :
+- An Introduction to Data Mining by Dr. Saed Sayad [Go](http://www.saedsayad.com/data_mining_map.htm)
 - analyticsvidhya [Go](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
 - Soft Computing and Intelligent Information Systems [Go](http://sci2s.ugr.es/imbalanced#Introduction%20to%20Classification%20with%20Imbalanced%20Datasets)
 
