@@ -157,5 +157,5 @@ Coming soon ... :)
   - Week #10 : Introduction to Deep Learning with Keras & Tensorflow
     - Problem solving
     - Assignment #4 : A dataset will provide based on deep learning.
-  - Week #11 : Presentation based on datasets. (Individual)
+  - Week #11 : Presentation based on datasets. (Individual) [Sample Slide: KDD'99 Datasets](https://www.slideshare.net/RafsanjaniMuhammod/analysis-of-the-kdd-cup1999-datasets) & [Sample Slide: Analysis of Datasets](https://www.slideshare.net/RafsanjaniMuhammod/analysis-of-the-datasets) 
   - Week #12 : Final Exam.
