@@ -155,10 +155,10 @@ Coming soon ... :)
     - Draw curve on scikit-learn (eg. ROC Curve, AUC Curve)
     - More tricks (imblearn)
   - Week #10 : Data Analysis with scikit-learn (Python)-III
-    - Introduction to Kaggle competetion
+    - Introduction to Kaggle competetion [Go](https://www.kaggle.com/)
     - Problem solving
     - Assignment #4 : A dataset will provide.
   - Week #11 : Presentation based on datasets. (Individual)
     - [Sample Slide: KDD'99 Datasets](https://www.slideshare.net/RafsanjaniMuhammod/analysis-of-the-kdd-cup1999-datasets) &
-    - [Sample Slide: Analysis of Datasets](https://www.slideshare.net/RafsanjaniMuhammod/analysis-of-the-datasets) 
+    - [Sample Slide: Analysis of the Datasets](https://www.slideshare.net/RafsanjaniMuhammod/analysis-of-the-datasets) 
   - Week #12 : Final Exam.
