@@ -154,9 +154,10 @@ Coming soon ... :)
     - Problem solving
     - Draw curve on scikit-learn (eg. ROC Curve, AUC Curve)
     - More tricks (imblearn)
-  - Week #10 : Introduction to Deep Learning with Keras & Tensorflow
+  - Week #10 : Data Analysis with scikit-learn (Python)-III
+    - Introduction to Kaggle competetion
     - Problem solving
-    - Assignment #4 : A dataset will provide based on deep learning.
+    - Assignment #4 : A dataset will provide.
   - Week #11 : Presentation based on datasets. (Individual)
     - [Sample Slide: KDD'99 Datasets](https://www.slideshare.net/RafsanjaniMuhammod/analysis-of-the-kdd-cup1999-datasets) &
     - [Sample Slide: Analysis of Datasets](https://www.slideshare.net/RafsanjaniMuhammod/analysis-of-the-datasets) 
