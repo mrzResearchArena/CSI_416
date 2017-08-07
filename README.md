@@ -27,7 +27,7 @@
 - An Introduction to Data Mining by Dr. Saed Sayad [Go](http://www.saedsayad.com/data_mining_map.htm)
 - Analytics Vidhya [Go](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
 - Soft Computing and Intelligent Information Systems [Go](http://sci2s.ugr.es/imbalanced#Introduction%20to%20Classification%20with%20Imbalanced%20Datasets)
-- Comparism between classifiers [Go](http://www.devopsinfographics.com/general/programming-a-beginneraes-guide-to-machine-learning-algorithms)
+- Comparism between classifiers [Go](http://www.devopsinfographics.com/general/programming-a-beginneraes-guide-to-machine-learning-algorithms), [Go](https://github.com/mrzResearchArena/CSI_416/blob/master/Classification-Pros-Cons.pdf)
 
 Coming soon ... :)
 
@@ -112,6 +112,8 @@ Coming soon ... :)
 - Understand Confusion Matrix
 - Calculate : Accuracy, Error, Sensitivity, Specificity, Precision, Recall
 - ROC Curve & AUPR Curve
+# Course Materials
+- Naive-Bayes [Download](https://github.com/mrzResearchArena/CSI_416/blob/master/MachineLearning.zip)
 
 # Course Schedule
   - Week #1 :
