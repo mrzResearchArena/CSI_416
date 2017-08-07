@@ -27,6 +27,7 @@
 - An Introduction to Data Mining by Dr. Saed Sayad [Go](http://www.saedsayad.com/data_mining_map.htm)
 - Analytics Vidhya [Go](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
 - Soft Computing and Intelligent Information Systems [Go](http://sci2s.ugr.es/imbalanced#Introduction%20to%20Classification%20with%20Imbalanced%20Datasets)
+- Comparism between classifiers [Go](http://www.devopsinfographics.com/general/programming-a-beginneraes-guide-to-machine-learning-algorithms)
 
 Coming soon ... :)
 
@@ -50,7 +51,7 @@ Coming soon ... :)
   5. Two-class dataset & Multi-class dataset/Multi-label datasets (when number of class-values is gretter than 2.)
   6. High-dimensional (When number of feature is gretter than 10)
   7. Balanced dataset vs Imbalanced dataset
-  8. What is overfitting of a dataset
+  8. Overfitting & Underfitting of a dataset
   9. Supervised learning vs. Unsupervised learning [Go](http://dataaspirant.com/2014/09/19/supervised-and-unsupervised-learning/)
   10. Classification, Regression, Clustering
   11. Bias–variance tradeoff [Go](http://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
