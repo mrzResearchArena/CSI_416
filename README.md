@@ -60,9 +60,10 @@ Coming soon ... :)
   
     
 ### Preprocessing Datasets :
+- Data cleaning [Go](https://www.youtube.com/watch?v=V0u6bxQOUJ8)
 - Remove duplicate elements
-- Handle missing elements (Can you calculate : Mean, Median, Mode, Standard Deviation etc. ?)
-- Feature Scaling (Can you calculate distance using : Euclid, Manhattan, Minkowski etc. ?)
+- Handle missing elements (Can you calculate : Mean, Median, Mode, Standard Deviation etc.?)
+- Feature Scaling or Feature Normalization (Can you calculate distance using : Euclid, Manhattan, Minkowski etc.?)
 
 ### Classification :
 - Rule Classifiers
@@ -99,14 +100,13 @@ Coming soon ... :)
   - Over-sampling algorithms : ADASYN, SMOTE, Random Over-sampling
   - Under-sampling algorithms : Random Under-sampling
 
-### Feature Selection :
-- Filter methods
-- Wrapper Methods
+### Features Selection :
+- Filter Approach (LDA)
+- Wrapper Approach
 
-### Dimensionality Reduction :
-- PCA
-- Kernel PCA
-- LDA
+### Features Generation:
+- Embeded Approach
+- Principal Component Analysis (PCA)
 
 ### Performance Measures : [Go](https://classeval.wordpress.com/introduction/basic-evaluation-measures/)
 - Understand Confusion Matrix
