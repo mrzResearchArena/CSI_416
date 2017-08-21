@@ -115,6 +115,7 @@ Coming soon ... :)
 
 # Course Materials
   - Naive-Bayes [Download](https://github.com/mrzResearchArena/CSI_416/blob/master/MachineLearning.zip)
+  - Association Rules Mining [Download](http://www.cs.put.poznan.pl/jstefanowski/sed/DM10-association-rules.pdf)
 
 # Course Schedule
   - Week #1 :
