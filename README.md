@@ -50,13 +50,14 @@ Coming soon ... :)
   4. Instances / Records / Vectors / Tuples
   5. Two-class dataset & Multi-class dataset/Multi-label datasets (when number of class-values is gretter than 2.)
   6. High-dimensional (When number of feature is gretter than 10)
-  7. Balanced dataset vs Imbalanced dataset
-  8. Overfitting & Underfitting of a dataset
-  9. Supervised learning vs. Unsupervised learning [Go](http://dataaspirant.com/2014/09/19/supervised-and-unsupervised-learning/)
-  10. Classification, Regression, Clustering
-  11. Bias–variance tradeoff [Go](http://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
-  12. Noisy Datasets & how to remove noise ?
-  13. Anomaly Detection [Go](http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf)
+  7. Univariate, Bivariate & Multivariate datasets [Go](http://www.engineeringintro.com/statistics/introduction-statistics/univariate-bivariate-and-multivariate-data/)
+  8. Balanced dataset vs Imbalanced dataset
+  9. Overfitting & Underfitting of a dataset
+  10. Supervised learning vs. Unsupervised learning [Go](http://dataaspirant.com/2014/09/19/supervised-and-unsupervised-learning/)
+  11. Classification, Regression, Clustering
+  12. Bias–variance tradeoff [Go](http://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
+  13. Noisy Datasets & how to remove noise ?
+  14. Anomaly Detection [Go](http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf)
   
     
 ### Preprocessing Datasets :
